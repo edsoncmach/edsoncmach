@@ -4,8 +4,8 @@
 
 
 
-- 🔭 Atualmente estou trabalhando com front-end
-- 🌱 Estou estudando PHP
+- 🔭 Atualmente estou fazendo formação de Front-end
+- 🌱 Estou estudandoo JavaScript
 - 📫 Para contato: tec.info.edson@gmail.com
 
 <div align="center">
